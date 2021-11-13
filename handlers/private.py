@@ -33,14 +33,14 @@ async def start(_, message: Message):
      disable_web_page_preview=True
     )
 
-@Client.on_message(filters.command("hexor") & ~filters.private & ~filters.channel)
+@Client.on_message(filters.command("start") & ~filters.private & ~filters.channel)
 async def gstart(_, message: Message):
       await message.reply_text("""**ѕαυαи💞 is On\n@DigiGleam <3**""",
       reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "⚜Updates⚜", url="https://t.me/Online_hangover")
+                        "⚜Updates⚜", url="https://t.me/SauanNews")
                 ]
             ]
         )
