@@ -155,7 +155,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
-                            url=f"https://t.me/ValenciaSupport")
+                            url=f"https://t.me/Online_hangover")
                    
                 ]
             ]
@@ -196,7 +196,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
-                            url=f"https://t.me/ValenciaSupport")
+                            url=f"https://t.me/Online_hangover")
 
                     ]
                 ]
@@ -214,7 +214,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
-                            url=f"https://t.me/ValenciaSupport")
+                            url=f"https://t.me/Online_hangover")
 
                         ]
                     ]
@@ -268,7 +268,7 @@ async def play(_, message: Message):
                             url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
-                            url=f"https://t.me/ValenciaSupport")
+                            url=f"https://t.me/Online_hangover")
                     ]
                 ]
             )
