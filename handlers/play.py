@@ -152,7 +152,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                             text="Updates",
-                            url=f"https://t.me/ValenciaUpdates"),
+                            url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
                             url=f"https://t.me/ValenciaSupport")
@@ -193,7 +193,7 @@ async def play(_, message: Message):
                     [
                         InlineKeyboardButton(
                             text="Updates",
-                            url=f"https://t.me/ValenciaUpdates"),
+                            url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
                             url=f"https://t.me/ValenciaSupport")
@@ -211,7 +211,7 @@ async def play(_, message: Message):
                         [
                             InlineKeyboardButton(
                             text="Updates",
-                            url=f"https://t.me/ValenciaUpdates"),
+                            url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
                             url=f"https://t.me/ValenciaSupport")
@@ -265,7 +265,7 @@ async def play(_, message: Message):
                       
                         InlineKeyboardButton(
                             text="Updates",
-                            url=f"https://t.me/ValenciaUpdates"),
+                            url=f"https://t.me/SauanNews"),
                         InlineKeyboardButton(
                             text="SupportGroup",
                             url=f"https://t.me/ValenciaSupport")
