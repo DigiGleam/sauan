@@ -5,7 +5,7 @@ import asyncio
 from pyrogram import Client
 
 
-print("Enter your app information from my.eSport.com/apps below.")
+print("Enter your app information from my.telegram.org below.")
 
 
 async def main():
